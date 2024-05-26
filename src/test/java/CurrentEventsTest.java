@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.*;
 
-public class CurrEvTest {
+public class CurrentEventsTest {
     WebDriver driver;
     @BeforeMethod
     public void SetDriver(){

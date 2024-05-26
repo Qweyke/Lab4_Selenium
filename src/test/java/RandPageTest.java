@@ -13,7 +13,7 @@ import java.util.Random;
 
 import static org.openqa.selenium.support.ui.ExpectedConditions.numberOfWindowsToBe;
 
-public class RandLinkTest {
+public class RandPageTest {
     static WebDriver driver;
     static WebDriverWait wait;
     static Random random = new Random();
